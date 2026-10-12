@@ -6,7 +6,7 @@
 
 ### 🎓 Education
 - **B.Tech in Computer Science & Engineering (Cybersecurity)**
-- **DY Patil International University** | *2024 – 2028*
+- **DY Patil International University** | *2026 – 2030*
 
 ---
 
