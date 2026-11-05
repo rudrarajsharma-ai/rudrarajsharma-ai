@@ -30,8 +30,8 @@
 ### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudrarajsharma-ai&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrarajsharma-ai&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <img src="https://img.shields.io/badge/GitHub-Profile--Stats-blue?style=for-the-badge&logo=github" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/Top--Languages-Python%20%7C%20HTML%20%7C%20CSS-orange?style=for-the-badge" alt="Top Languages" />
 </p>
 
 ---
